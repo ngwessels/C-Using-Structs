@@ -1,0 +1,49 @@
+Script started on Mon 20 Apr 2020 06:46:31 PM PDT
+nate.wessels@syccuxas01:~/cs162/project2> g++ *.cpp -o prog
+nate.wessels@syccuxas01:~/cs162/project2> ./prog
+*** Welcome to your media library! ***
+    Here are all commands:
+    a - Add media to your library
+    c - Print all media of a specific category from your library
+    d - Delete media from your library
+    p - Print all media that you have in your library
+    q - Quit Program
+Enter Command: a
+Title: Avengers
+*** All your Categories ***
+    video
+    audio
+    printed
+Category: video
+Movie Description: A movie about the avengers
+Year: 2019
+*** Welcome to your media library! ***
+    Here are all commands:
+    a - Add media to your library
+    c - Print all media of a specific category from your library
+    d - Delete media from your library
+    p - Print all media that you have in your library
+    q - Quit Program
+Enter Command: q p
+Category: video
+*** Media = 1
+    Title: Avengers
+    Description: A movie about the avengers
+    Category: video
+    Year: 2019
+    Id: 0
+
+Category: 
+*** Welcome to your media library! ***
+    Here are all commands:
+    a - Add media to your library
+    c - Print all media of a specific category from your library
+    d - Delete media from your library
+    p - Print all media that you have in your library
+    q - Quit Program
+Enter Command: q
+Have a nice day!
+nate.wessels@syccuxas01:~/cs162/project2> exit
+exit
+
+Script done on Mon 20 Apr 2020 06:47:26 PM PDT
